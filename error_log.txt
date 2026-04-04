@@ -1,0 +1,2 @@
+[2026-03-28 16:02:16] ERROR in trigger_errors: ConnectionError - No connection could be made
+[2026-03-28 16:02:17] ERROR in trigger_errors: HTTPError - 404 Not Found for product ID 999
